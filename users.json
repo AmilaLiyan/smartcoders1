@@ -1,20 +1,24 @@
-[
-	{
-		"name": "Panda Digital",
-		"description": "Panda Digital Studios, Sri Lanka",
-		"photo": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69d7c93368bc9e998958b0db2e491501-1584779450782/affe04eb-da05-4683-96a7-941b1f7fa31d.png",
-		"linkUrl": "https://www.fiverr.com/pandadigitalsl",
-		"type": "Type 1",
-		"category": "Category 1",
-		"proUser": true
-	},
-	{
-		"name": "Smart Coders",
-		"description": "Smart Coders, Egypt",
-		"photo": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-		"linkUrl": "https://www.fiverr.com/smartcoders1",
-		"type": "Type 2",
-		"category": "Category 2",
-		"proUser": false
-	}
-]
+{
+	"version": "1",
+	"users": [
+	  {
+			"name": "Panda Digital",
+			"description": "Panda Digital Studios, Sri Lanka",
+			"photo": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69d7c93368bc9e998958b0db2e491501-1584779450782/affe04eb-da05-4683-96a7-941b1f7fa31d.png",
+			"linkUrl": "https://www.fiverr.com/pandadigitalsl",
+			"type": "Type 1",
+			"category": "Category 1",
+			"proUser": true
+		},
+		{
+			"name": "Smart Coders",
+			"description": "Smart Coders, Egypt",
+			"photo": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
+			"linkUrl": "https://www.fiverr.com/smartcoders1",
+			"type": "Type 2",
+			"category": "Category 2",
+			"proUser": false
+		}
+	]
+
+}
